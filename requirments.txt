@@ -1,0 +1,26 @@
+# Data & ML
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+joblib
+shap
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+
+# Notebooks / EDA
+jupyter
+matplotlib
+seaborn
+
+# Dev / testing
+pytest
+httpx
+ruff

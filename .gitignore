@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+venv/
+source/
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / local settings
+.env
+
+# macOS
+.DS_Store
+
+# Data (keep folder structure via .gitkeep)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained model files
+*.joblib
+*.pkl
